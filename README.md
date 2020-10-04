@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/RIMXGNyt1H.gif" width=250><br>
+<img src="http://g.recordit.co/RlMXGNyt1H.gif" width=250><br>
 
 ### Notes
 Working with the grid view was a bit challenging at first, as I could not get the formatting the way I wanted it. The final video in the walkthrough, however, suggested a handful of
@@ -37,7 +37,7 @@ extremeley helpful solutions.
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="http://g.recordit.co/BXVChOkLIC.gif" width=250><br>
+<img src="http://g.recordit.co/BXVChOkLlC.gif" width=250><br>
 
 ### Notes
 This part of the app was really easy, but it is still taking some time to get used to swift and xcode.
